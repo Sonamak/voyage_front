@@ -201,55 +201,45 @@
 											</div>
 											<!-- /row -->
 											<h3>Hotels</h3>
-											<div class="isotope-wrapper">
+											<div class="hotels_container">
 												<div class="row">
-													<div class="col-xl-6 col-lg-6 col-md-6 isotope-item popular">
-														<div class="box_grid" >
+													<div class="col-xl-6 col-lg-6 col-md-6 isotope-item position-relative" style="position: absolute; left: 0px; top: 0px;">
+														<div class="box_grid">
 															<figure>
-																<a href="hotel-detail.html"><img src="img/hotel_1.jpg" class="img-fluid" alt="" width="800" height="533"><div class="read_more"><span>Read more</span></div></a>
-																<small>Paris Centre</small>
+																<a href="#0" class="wish_bt"></a>
+																<a href="tour-details.php"><img src="img/tour_1.jpg" class="img-fluid" alt="" width="800" height="533"><div class="read_more"><span>Read more</span></div></a>
+																<small>Historic</small>
 															</figure>
 															<div class="wrapper">
-																<div class="cat_star"><i class="icon_star"></i><i class="icon_star"></i><i class="icon_star"></i><i class="icon_star"></i></div>
-																<h3><a href="hotel-detail.html">Park Hyatt Hotel</a></h3>
+																<h3><a href="tour-details.php">Arc Triomphe</a></h3>
 																<p>Id placerat tacimates definitionem sea, prima quidam vim no. Duo nobis persecuti cu.</p>
 																<span class="price">From <strong>$54</strong> /per person</span>
 															</div>
+															<ul>
+																<li><i class="icon_clock_alt"></i> 1h 30min</li>
+																<li><div class="score"><span>Superb<em>350 Reviews</em></span><strong>8.9</strong></div></li>
+															</ul>
 														</div>
 													</div>
-													<!-- /box_grid -->
-													<div class="col-xl-6 col-lg-6 col-md-6 isotope-item latest">
+													<div class="col-xl-6 col-lg-6 col-md-6 isotope-item position-relative" style="position: absolute; left: 0px; top: 0px;">
 														<div class="box_grid">
 															<figure>
-																<a href="hotel-detail.html"><img src="img/hotel_2.jpg" class="img-fluid" alt="" width="800" height="533"><div class="read_more"><span>Read more</span></div></a>
-																<small>Paris Centre</small>
+																<a href="#0" class="wish_bt"></a>
+																<a href="tour-details.php"><img src="img/tour_2.jpg" class="img-fluid" alt="" width="800" height="533"><div class="read_more"><span>Read more</span></div></a>
+																<small>Historic</small>
 															</figure>
 															<div class="wrapper">
-																<div class="cat_star"><i class="icon_star"></i><i class="icon_star"></i><i class="icon_star"></i><i class="icon_star"></i></div>
-																<h3><a href="hotel-detail.html">Mariott Hotel</a></h3>
+																<h3><a href="tour-details.php">Arc Triomphe</a></h3>
 																<p>Id placerat tacimates definitionem sea, prima quidam vim no. Duo nobis persecuti cu.</p>
-																<span class="price">From <strong>$124</strong> /per person</span>
+																<span class="price">From <strong>$54</strong> /per person</span>
 															</div>
+															<ul>
+																<li><i class="icon_clock_alt"></i> 1h 30min</li>
+																<li><div class="score"><span>Superb<em>350 Reviews</em></span><strong>8.9</strong></div></li>
+															</ul>
 														</div>
 													</div>
-													<!-- /box_grid -->
-													<div class="col-xl-6 col-lg-6 col-md-6 isotope-item popular">
-														<div class="box_grid">
-															<figure>
-																<a href="hotel-detail.html"><img src="img/hotel_3.jpg" class="img-fluid" alt="" width="800" height="533"><div class="read_more"><span>Read more</span></div></a>
-																<small>Paris Centre</small>
-															</figure>
-															<div class="wrapper">
-																<div class="cat_star"><i class="icon_star"></i><i class="icon_star"></i><i class="icon_star"></i><i class="icon_star"></i></div>
-																<h3><a href="hotel-detail.html">Lumiere Hotel</a></h3>
-																<p>Id placerat tacimates definitionem sea, prima quidam vim no. Duo nobis persecuti cu.</p>
-																<span class="price">From <strong>$25</strong> /per person</span>
-															</div>
-														</div>
-													</div>
-													<!-- /box_grid -->
 												</div>
-												<!-- /row -->
 											</div>
 											<!-- /isotope-wrapper -->
 										</section>
@@ -258,7 +248,7 @@
 												<div class="col-lg-6">
 													<div class="box_pricing">
 														<h4>Low Season</h4>
-														<p>Diam timeam iracundia eu per, vide error id nec, est veniam equidem nonumes in. Has offendit oportere ea. Errem denique corpora ut vis, veniam fierent recteque vim no, in oblique forensibus accommodare cum.</p>
+														<p>Eos tollit ancillae ea, lorem consulatu qui ne, eu eros eirmod scaevola sea. Et nec tantas accusamus salutatus, sit commodo veritus te, erat legere fabulas has ut.</p>
 														<hr>
 														<ul>
 															<li><strong>Triple Room</strong> starting from
@@ -287,7 +277,7 @@
 															<span class="top_selling">Top selling</span>
 														</div>
 														<h4>Peak Season</h4>
-														<p>Diam timeam iracundia eu per, vide error id nec, est veniam equidem nonumes in. Has offendit oportere ea. Errem denique corpora ut vis, veniam fierent recteque vim no, in oblique forensibus accommodare cum.</p>
+														<p>Eos tollit ancillae ea, lorem consulatu qui ne, eu eros eirmod scaevola sea. Et nec tantas accusamus salutatus, sit commodo veritus te, erat legere fabulas has ut.</p>
 														<hr>
 														<ul>
 															<li><strong>Triple Room</strong> starting from
@@ -312,101 +302,46 @@
 												</div>
 											</div>
 											<!-- /row -->
-											<div class="isotope-wrapper">
+											<h3>Hotels</h3>
+											<div class="hotels_container">
 												<div class="row">
-													<div class="col-xl-6 col-lg-6 col-md-6 isotope-item popular">
-														<div class="box_grid">
-															<figure>
-																<a href="hotel-detail.html"><img src="img/hotel_1.jpg" class="img-fluid" alt="" width="800" height="533"><div class="read_more"><span>Read more</span></div></a>
-																<small>Paris Centre</small>
-															</figure>
-															<div class="wrapper">
-																<div class="cat_star"><i class="icon_star"></i><i class="icon_star"></i><i class="icon_star"></i><i class="icon_star"></i></div>
-																<h3><a href="hotel-detail.html">Park Hyatt Hotel</a></h3>
-																<p>Id placerat tacimates definitionem sea, prima quidam vim no. Duo nobis persecuti cu.</p>
-																<span class="price">From <strong>$54</strong> /per person</span>
-															</div>
-														</div>
-													</div>
-													<!-- /box_grid -->
-													<div class="col-xl-6 col-lg-6 col-md-6 isotope-item latest">
-														<div class="box_grid">
-															<figure>
-																<a href="hotel-detail.html"><img src="img/hotel_2.jpg" class="img-fluid" alt="" width="800" height="533"><div class="read_more"><span>Read more</span></div></a>
-																<small>Paris Centre</small>
-															</figure>
-															<div class="wrapper">
-																<div class="cat_star"><i class="icon_star"></i><i class="icon_star"></i><i class="icon_star"></i><i class="icon_star"></i></div>
-																<h3><a href="hotel-detail.html">Mariott Hotel</a></h3>
-																<p>Id placerat tacimates definitionem sea, prima quidam vim no. Duo nobis persecuti cu.</p>
-																<span class="price">From <strong>$124</strong> /per person</span>
-															</div>
-														</div>
-													</div>
-													<!-- /box_grid -->
-													<div class="col-xl-6 col-lg-6 col-md-6 isotope-item popular">
-														<div class="box_grid">
-															<figure>
-																<a href="hotel-detail.html"><img src="img/hotel_3.jpg" class="img-fluid" alt="" width="800" height="533"><div class="read_more"><span>Read more</span></div></a>
-																<small>Paris Centre</small>
-															</figure>
-															<div class="wrapper">
-																<div class="cat_star"><i class="icon_star"></i><i class="icon_star"></i><i class="icon_star"></i><i class="icon_star"></i></div>
-																<h3><a href="hotel-detail.html">Lumiere Hotel</a></h3>
-																<p>Id placerat tacimates definitionem sea, prima quidam vim no. Duo nobis persecuti cu.</p>
-																<span class="price">From <strong>$25</strong> /per person</span>
-															</div>
-														</div>
-													</div>
-													<!-- /box_grid -->
-													<div class="col-xl-6 col-lg-6 col-md-6 isotope-item latest">
-														<div class="box_grid">
-															<figure>
-																<a href="hotel-detail.html"><img src="img/hotel_4.jpg" class="img-fluid" alt="" width="800" height="533"><div class="read_more"><span>Read more</span></div></a>
-																<small>Paris Centre</small>
-															</figure>
-															<div class="wrapper">
-																<div class="cat_star"><i class="icon_star"></i><i class="icon_star"></i><i class="icon_star"></i><i class="icon_star"></i></div>
-																<h3><a href="hotel-detail.html">Concorde Hotel</a></h3>
-																<p>Id placerat tacimates definitionem sea, prima quidam vim no. Duo nobis persecuti cu.</p>
-																<span class="price">From <strong>$45</strong> /per person</span>
-															</div>
-														</div>
-													</div>
-													<!-- /box_grid -->
-													<div class="col-xl-6 col-lg-6 col-md-6 isotope-item popular">
-														<div class="box_grid">
-															<figure>
-																<a href="hotel-detail.html"><img src="img/hotel_5.jpg" class="img-fluid" alt="" width="800" height="533"><div class="read_more"><span>Read more</span></div></a>
-																<small>Paris Centre</small>
-															</figure>
-															<div class="wrapper">
-																<div class="cat_star"><i class="icon_star"></i><i class="icon_star"></i><i class="icon_star"></i><i class="icon_star"></i></div>
-																<h3><a href="hotel-detail.html">Louvre Hotel</a></h3>
-																<p>Id placerat tacimates definitionem sea, prima quidam vim no. Duo nobis persecuti cu.</p>
-																<span class="price">From <strong>$65</strong> /per person</span>
-															</div>
-														</div>
-													</div>
-													<!-- /box_grid -->
-													<div class="col-xl-6 col-lg-6 col-md-6 isotope-item latest">
+													<div class="col-xl-6 col-lg-6 col-md-6 isotope-item position-relative" style="position: absolute; left: 0px; top: 0px;">
 														<div class="box_grid">
 															<figure>
 																<a href="#0" class="wish_bt"></a>
-																<a href="hotel-detail.html"><img src="img/hotel_6.jpg" class="img-fluid" alt="" width="800" height="533"><div class="read_more"><span>Read more</span></div></a>
-																<small>Paris Centre</small>
+																<a href="tour-details.php"><img src="img/tour_3.jpg" class="img-fluid" alt="" width="800" height="533"><div class="read_more"><span>Read more</span></div></a>
+																<small>Historic</small>
 															</figure>
 															<div class="wrapper">
-																<div class="cat_star"><i class="icon_star"></i><i class="icon_star"></i><i class="icon_star"></i><i class="icon_star"></i></div>
-																<h3><a href="hotel-detail.html">Concorde Hotel</a></h3>
+																<h3><a href="tour-details.html">Arc Triomphe</a></h3>
 																<p>Id placerat tacimates definitionem sea, prima quidam vim no. Duo nobis persecuti cu.</p>
-																<span class="price">From <strong>$95</strong> /per person</span>
+																<span class="price">From <strong>$54</strong> /per person</span>
 															</div>
+															<ul>
+																<li><i class="icon_clock_alt"></i> 1h 30min</li>
+																<li><div class="score"><span>Superb<em>350 Reviews</em></span><strong>8.9</strong></div></li>
+															</ul>
 														</div>
 													</div>
-													<!-- /box_grid -->
+													<div class="col-xl-6 col-lg-6 col-md-6 isotope-item position-relative" style="position: absolute; left: 0px; top: 0px;">
+														<div class="box_grid">
+															<figure>
+																<a href="#0" class="wish_bt"></a>
+																<a href="tour-details.php"><img src="img/tour_4.jpg" class="img-fluid" alt="" width="800" height="533"><div class="read_more"><span>Read more</span></div></a>
+																<small>Historic</small>
+															</figure>
+															<div class="wrapper">
+																<h3><a href="tour-details.php">Arc Triomphe</a></h3>
+																<p>Id placerat tacimates definitionem sea, prima quidam vim no. Duo nobis persecuti cu.</p>
+																<span class="price">From <strong>$54</strong> /per person</span>
+															</div>
+															<ul>
+																<li><i class="icon_clock_alt"></i> 1h 30min</li>
+																<li><div class="score"><span>Superb<em>350 Reviews</em></span><strong>8.9</strong></div></li>
+															</ul>
+														</div>
+													</div>
 												</div>
-												<!-- /row -->
 											</div>
 											<!-- /isotope-wrapper -->
 										</section>
